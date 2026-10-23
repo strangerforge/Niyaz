@@ -69,16 +69,6 @@ Apple cihazlara doğrudan App Store dışından yükleme yapmak için:
 
 ---
 
-## 🛠️ Teknik Altyapı
-
-* **Frontend:** Vanilla Modern JavaScript (ES Modules), CSS3 Modern Tokens, HTML5
-* **PWA & Cache:** Service Worker (Cache-First & Offline Storage API)
-* **Mobile Runtime:** @capacitor/core, @capacitor/android, @capacitor/ios
-* **Barındırma & CDN:** Vercel Global Edge Network
-* **Dağıtım & Sürümler:** GitHub Releases (@strangervibe)
-
----
-
 ## 📄 Lisans & Katkı
 
 Bu proje açık ve ücretsiz kullanım amacıyla sunulmaktadır. Geri bildirimleriniz ve önerileriniz için [Issues](https://github.com/strangervibe/Niyaz/issues) sekmesini kullanabilirsiniz.
@@ -86,3 +76,4 @@ Bu proje açık ve ücretsiz kullanım amacıyla sunulmaktadır. Geri bildirimle
 <div align="center">
 <sub>Geliştirici: <strong>@strangervibe</strong> • Huzurla ve dua ile kullanınız.</sub>
 </div>
+
