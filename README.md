@@ -1,19 +1,19 @@
-﻿<div align="center">
+<div align="center">
 
 # 🌿 Niyaz
 ### Kur'an-ı Kerîm, Namaz Vakitleri, Dualar ve Zikir
 
 *Huzurlu, reklamsız ve çevrimdışı çalışan modern manevi yol arkadaşınız.*
 
-[![Version](https://img.shields.io/badge/version-1.9.6-1B6B4A?style=for-the-badge&logo=appveyor)](https://github.com/strangervibe/Niyaz/releases/tag/v1.9.6)
-[![Platform](https://img.shields.io/badge/platform-Android%20%7C%20iOS%20%7C%20Web-24292e?style=for-the-badge)](https://github.com/strangervibe/Niyaz/releases/tag/v1.9.6)
+[![Version](https://img.shields.io/badge/version-1.9.6-1B6B4A?style=for-the-badge&logo=appveyor)](https://github.com/strangerforge/Niyaz/releases/tag/v1.9.6)
+[![Platform](https://img.shields.io/badge/platform-Android%20%7C%20iOS%20%7C%20Web-24292e?style=for-the-badge)](https://github.com/strangerforge/Niyaz/releases/tag/v1.9.6)
 [![License](https://img.shields.io/badge/license-Free%20%26%20Open-success?style=for-the-badge)](#)
-[![Developer](https://img.shields.io/badge/developer-@strangervibe-black?style=for-the-badge&logo=github)](https://github.com/strangervibe)
+[![Developer](https://img.shields.io/badge/developer-@strangerforge-black?style=for-the-badge&logo=github)](https://github.com/strangerforge)
 
 <br/>
 
-[🤖 Android İndir (.apk)](https://github.com/strangervibe/Niyaz/releases/download/v1.9.6/niyaz.apk) &nbsp;•&nbsp; 
-[🍏 iOS İndir (.ipa)](https://github.com/strangervibe/Niyaz/releases/download/v1.9.6/niyaz.ipa) &nbsp;•&nbsp; 
+[🤖 Android İndir (.apk)](https://github.com/strangerforge/Niyaz/releases/download/v1.9.6/niyaz.apk) &nbsp;•&nbsp; 
+[🍏 iOS İndir (.ipa)](https://github.com/strangerforge/Niyaz/releases/download/v1.9.6/niyaz.ipa) &nbsp;•&nbsp; 
 [🌐 Web Önizleme](https://niyaz-app.vercel.app)
 
 </div>
@@ -50,7 +50,7 @@ Hiçbir dikkat dağıtıcı reklam, gereksiz bildirim veya karmaşık menü bar�
 ---
 
 ### 1. 🤖 Android (.apk Kurulumu) — *Önerilen*
-1. Doğrudan son sürüm paketini indirin: [**niyaz.apk İndir**](https://github.com/strangervibe/Niyaz/releases/download/v1.9.6/niyaz.apk)
+1. Doğrudan son sürüm paketini indirin: [**niyaz.apk İndir**](https://github.com/strangerforge/Niyaz/releases/download/v1.9.6/niyaz.apk)
 2. İndirilen dosyaya dokunun.
 3. Telefonunuz *"Bilinmeyen kaynaklardan uygulama yükleme"* izni isterse izin verin.
 4. *"Yükle"* butonuna basarak kurulumu tamamlayın.
@@ -59,7 +59,7 @@ Hiçbir dikkat dağıtıcı reklam, gereksiz bildirim veya karmaşık menü bar�
 
 ### 2. 🍏 iOS (.ipa Kurulumu)
 Apple cihazlara doğrudan yükleme yapmak için:
-1. Paketi indirin: [**niyaz.ipa İndir**](https://github.com/strangervibe/Niyaz/releases/download/v1.9.6/niyaz.ipa)
+1. Paketi indirin: [**niyaz.ipa İndir**](https://github.com/strangerforge/Niyaz/releases/download/v1.9.6/niyaz.ipa)
 2. **Scarlet**, **AltStore** veya **Sideloadly** gibi popüler imzalama araçlarından biriyle .ipa dosyasını seçip iPhone/iPad'inize yükleyin.
 
 ---
@@ -72,8 +72,8 @@ Uygulamayı indirmeden önce arayüzünü hızlıca denemek ve incelemek isterse
 
 ## 📄 Lisans & Katkı
 
-Bu proje açık ve ücretsiz kullanım amacıyla sunulmaktadır. Geri bildirimleriniz ve önerileriniz için [Issues](https://github.com/strangervibe/Niyaz/issues) sekmesini kullanabilirsiniz.
+Bu proje açık ve ücretsiz kullanım amacıyla sunulmaktadır. Geri bildirimleriniz ve önerileriniz için [Issues](https://github.com/strangerforge/Niyaz/issues) sekmesini kullanabilirsiniz.
 
 <div align="center">
-<sub>Geliştirici: <strong>@strangervibe</strong> • Huzurla ve dua ile kullanınız.</sub>
+<sub>Geliştirici: <strong>@strangerforge</strong> • Huzurla ve dua ile kullanınız.</sub>
 </div>
