@@ -32,7 +32,7 @@ Hiçbir dikkat dağıtıcı reklam, gereksiz bildirim veya karmaşık menü bar�
 
 | Özellik | Açıklama |
 | :--- | :--- |
-| 🕌 **Namaz Vakitleri & Canlı Bildirimler** | Konumunuza göre Diyanet uyumlu kesin vakitler, ezana kalan süreyi gösteren simetrik canlı sayaç ve vaktinde çalan ezan bildirimleri. |
+| 🕌 **Namaz Vakitleri & Canlı Bildirimler** | Konumunuza göre uyumlu vakitler, ezana kalan süreyi gösteren simetrik canlı sayaç ve vaktinde çalan ezan bildirimleri. *(Diyanet İşleri Başkanlığı ile resmi bir bağı yoktur.)* |
 | 🧭 **Canlı Kıble Pusulası** | Telefonunuzun pusula ve konum sensörlerini kullanarak Kabe yönünü milimetrik hassasiyetle gösteren 3D pusula. |
 | 📖 **Kur'an-ı Kerîm** | Arapça orijinal hat, Türkçe meâl, sesli tilâvet, sure ve cüz fihristi, arama ve son kalınan yeri hatırlama. |
 | 📿 **Akıllı Zikirmatik & Tesbihat** | Dokunsal geri bildirim (haptic titreşim), sesli sayaç, namaz tesbihatı ve özel zikir hedefleri belirleme. |
