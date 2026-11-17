@@ -7,7 +7,7 @@
 
 [![Version](https://img.shields.io/badge/version-1.9.6-1B6B4A?style=for-the-badge&logo=appveyor)](https://github.com/strangerforge/Niyaz/releases/tag/v1.9.6)
 [![Platform](https://img.shields.io/badge/platform-Android%20%7C%20iOS%20%7C%20Web-24292e?style=for-the-badge)](https://github.com/strangerforge/Niyaz/releases/tag/v1.9.6)
-[![License](https://img.shields.io/badge/license-Free%20%26%20Open-success?style=for-the-badge)](#)
+[![License](https://img.shields.io/badge/license-MIT-success?style=for-the-badge)](./LICENSE)
 [![Developer](https://img.shields.io/badge/developer-@strangerforge-black?style=for-the-badge&logo=github)](https://github.com/strangerforge)
 
 <br/>
@@ -72,7 +72,7 @@ Uygulamayı indirmeden önce arayüzünü hızlıca denemek ve incelemek isterse
 
 ## 📄 Lisans & Katkı
 
-Bu proje açık ve ücretsiz kullanım amacıyla sunulmaktadır. Geri bildirimleriniz ve önerileriniz için [Issues](https://github.com/strangerforge/Niyaz/issues) sekmesini kullanabilirsiniz.
+Bu proje [MIT Lisansı](./LICENSE) altında açık kaynak ve ücretsiz kullanım amacıyla sunulmaktadır. Geri bildirimleriniz ve önerileriniz için [Issues](https://github.com/strangerforge/Niyaz/issues) sekmesini kullanabilirsiniz.
 
 <div align="center">
 <sub>Geliştirici: <strong>@strangerforge</strong> • Huzurla ve dua ile kullanınız.</sub>
