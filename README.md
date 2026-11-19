@@ -1,79 +1,82 @@
 <div align="center">
 
+<img src="https://niyaz-app.vercel.app/icons/icon-192.png" width="96" height="96" alt="Niyaz Logo" />
+
 # 🌿 Niyaz
-### Kur'an-ı Kerîm, Namaz Vakitleri, Dualar ve Zikir
+### Offline-First Prayer Times, Quran, Qibla &amp; Daily Companion
 
-*Huzurlu, reklamsız ve çevrimdışı çalışan modern manevi yol arkadaşınız.*
+*A serene, ad-free, 100% offline-capable Islamic companion for Android, iOS, and Web.*
 
-[![Version](https://img.shields.io/badge/version-1.9.6-1B6B4A?style=for-the-badge&logo=appveyor)](https://github.com/strangerforge/Niyaz/releases/tag/v1.9.6)
-[![Platform](https://img.shields.io/badge/platform-Android%20%7C%20iOS%20%7C%20Web-24292e?style=for-the-badge)](https://github.com/strangerforge/Niyaz/releases/tag/v1.9.6)
-[![License](https://img.shields.io/badge/license-MIT-success?style=for-the-badge)](./LICENSE)
-[![Developer](https://img.shields.io/badge/developer-@strangerforge-black?style=for-the-badge&logo=github)](https://github.com/strangerforge)
+🇬🇧 **English** · 🇹🇷 [**Türkçe**](./README.tr.md)
 
 <br/>
 
-[🤖 Android İndir (.apk)](https://github.com/strangerforge/Niyaz/releases/download/v1.9.6/niyaz.apk) &nbsp;•&nbsp; 
-[🍏 iOS İndir (.ipa)](https://github.com/strangerforge/Niyaz/releases/download/v1.9.6/niyaz.ipa) &nbsp;•&nbsp; 
-[🌐 Web Önizleme](https://niyaz-app.vercel.app)
+<a href="https://github.com/strangerforge/Niyaz/releases/latest"><img src="https://img.shields.io/github/v/release/strangerforge/Niyaz?style=for-the-badge&color=1B6B4A&label=Release" alt="Latest Release" /></a>&nbsp;<img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Web-24292e?style=for-the-badge" alt="Platform" />&nbsp;<img src="https://img.shields.io/badge/Privacy-Zero%20Ads%20%E2%80%A2%20Offline--First-10B981?style=for-the-badge" alt="Zero Ads" />&nbsp;<a href="https://github.com/strangerforge"><img src="https://img.shields.io/badge/Creator-@strangerforge-181717?style=for-the-badge&logo=github&logoColor=white" alt="Creator" /></a>
+
+<br/><br/>
+
+[🤖 Download Android (.apk)](https://github.com/strangerforge/Niyaz/releases/latest/download/niyaz.apk) &nbsp;·&nbsp; [🍏 Download iOS (.ipa)](https://github.com/strangerforge/Niyaz/releases/latest/download/niyaz.ipa) &nbsp;·&nbsp; [🌐 Live Web Preview](https://niyaz-app.vercel.app)
+
+<br/>
+
+<img src="./assets/screenshots.png" width="100%" alt="Niyaz App Screenshots — Prayer Times, Quran, Qibla & Tasbih" />
 
 </div>
 
 ---
 
-## ✨ Niyaz Nedir?
-
-**Niyaz**, modern yaşamın koşturmacasında ibadetlerinizi düzenli, sade ve huzurlu bir şekilde yerine getirmeniz için tasarlanmış bir mobil uygulamadır. 
-
-Hiçbir dikkat dağıtıcı reklam, gereksiz bildirim veya karmaşık menü barındırmaz. **"Offline-First"** (Önce Çevrimdışı) mimarisi sayesinde internet bağlantınız olmasa dahi dağda, yolculukta veya uçakta kesintisiz çalışır.
+> **Repository Scope:** This repository is the official **release, documentation, and issue tracker hub** for **Niyaz** (free to download and use; source code is maintained privately). Please open an [Issue](https://github.com/strangerforge/Niyaz/issues) for bug reports, device compatibility feedback, or feature requests.
 
 ---
 
-## 🌟 Öne Çıkan Özellikler
+## ✨ What is Niyaz?
 
-| Özellik | Açıklama |
+**Niyaz** is a calm, distraction-free mobile companion built to help you keep track of daily prayers, Quran reading, Qibla direction, and dhikr without clutter.
+
+It contains **zero ads, zero tracking, and zero unnecessary prompts**. Built with an **Offline-First** architecture, it works reliably even with no internet connection—on flights, in the mountains, or while traveling.
+
+---
+
+## 🌟 Key Features
+
+| Feature | Description |
 | :--- | :--- |
-| 🕌 **Namaz Vakitleri & Canlı Bildirimler** | Konumunuza göre uyumlu vakitler, ezana kalan süreyi gösteren simetrik canlı sayaç ve vaktinde çalan ezan bildirimleri. *(Diyanet İşleri Başkanlığı ile resmi bir bağı yoktur.)* |
-| 🧭 **Canlı Kıble Pusulası** | Telefonunuzun pusula ve konum sensörlerini kullanarak Kabe yönünü milimetrik hassasiyetle gösteren 3D pusula. |
-| 📖 **Kur'an-ı Kerîm** | Arapça orijinal hat, Türkçe meâl, sesli tilâvet, sure ve cüz fihristi, arama ve son kalınan yeri hatırlama. |
-| 📿 **Akıllı Zikirmatik & Tesbihat** | Dokunsal geri bildirim (haptic titreşim), sesli sayaç, namaz tesbihatı ve özel zikir hedefleri belirleme. |
-| ✨ **Esmaü'l-Hüsna** | Allah'ın 99 güzel ismi, Türkçe anlamları, faziletleri ve zikir adetleri. |
-| 🤲 **Dualar & Niyazlar** | Kur'an'dan dualar, Peygamber Efendimiz'in (s.a.v.) sahih duaları ve günlük yaşam niyazları. |
-| 🌙 **Gece / Gündüz Teması** | Göz yormayan organik açık tema ve gece okumaları için özel kontrastlı koyu tema. |
-| ⚡ **Sıfır Reklam, %100 Gizlilik** | Hiçbir kullanıcı verisi toplanmaz, reklam gösterilmez, arka planda izleme yapılmaz. |
+| 🕌 **Prayer Times &amp; Live Notifications** | Location-aware daily prayer schedule, live countdown timer to the next prayer, and on-time adhan notifications. *(Not officially affiliated with Diyanet.)* |
+| 🧭 **Live Qibla Compass** | High-precision 3D Qibla compass powered by your device's compass and geolocation sensors. |
+| 📖 **Holy Quran** | Original Arabic script, Turkish translation, audio recitation, surah &amp; juz index, search, and automatic last-read bookmarking. |
+| 📿 **Smart Tasbih &amp; Dhikr Counter** | Haptic feedback, optional audio click, post-prayer tasbihat, and custom daily targets. |
+| ✨ **Asma al-Husna** | The 99 names of Allah with meanings, virtues, and suggested dhikr counts. |
+| 🤲 **Duas &amp; Supplications** | Curated Quranic prayers, authentic Prophetic supplications, and daily duas. |
+| 🌙 **Light &amp; Dark Themes** | Soft organic light theme for daytime clarity and high-contrast dark mode for night reading. |
+| ⚡ **Zero Ads, 100% Privacy** | No analytics, no user profiling, no background trackers, and no ads—ever. |
 
 ---
 
-## 📲 Kurulum ve İndirme Seçenekleri
+## 📲 Download &amp; Installation
 
-> ⚠️ **Önemli Hatırlatma:** Ezan ve namaz vakti bildirimlerinin arka planda ve ekran kilitliyken zamanında çalabilmesi için uygulamanın **Android (.apk)** veya **iOS (.ipa)** mobil paketi olarak kurulması gerekmektedir. *(Tarayıcılar arka plan bildirimlerine kısıtlama getirdiği için web kurulumunda bildirimler çalışmaz).*
+> ⚠️ **Important Note:** To receive reliable background adhan and prayer-time alerts while the screen is locked, install the native **Android (.apk)** or **iOS (.ipa)** package. *(Mobile browsers restrict background alarms in web mode).*
 
----
+### 1. 🤖 Android (`.apk`) — *Recommended*
+1. Download the latest release package: [**niyaz.apk**](https://github.com/strangerforge/Niyaz/releases/latest/download/niyaz.apk)
+2. Tap the downloaded file.
+3. If prompted, allow *"Install from unknown sources"*.
+4. Tap **Install** to finish setup.
 
-### 1. 🤖 Android (.apk Kurulumu) — *Önerilen*
-1. Doğrudan son sürüm paketini indirin: [**niyaz.apk İndir**](https://github.com/strangerforge/Niyaz/releases/download/v1.9.6/niyaz.apk)
-2. İndirilen dosyaya dokunun.
-3. Telefonunuz *"Bilinmeyen kaynaklardan uygulama yükleme"* izni isterse izin verin.
-4. *"Yükle"* butonuna basarak kurulumu tamamlayın.
+### 2. 🍏 iOS (`.ipa`)
+1. Download the latest package: [**niyaz.ipa**](https://github.com/strangerforge/Niyaz/releases/latest/download/niyaz.ipa)
+2. Sideload onto your iPhone/iPad using **AltStore**, **SideStore**, or **Sideloadly**.
 
----
-
-### 2. 🍏 iOS (.ipa Kurulumu)
-Apple cihazlara doğrudan yükleme yapmak için:
-1. Paketi indirin: [**niyaz.ipa İndir**](https://github.com/strangerforge/Niyaz/releases/download/v1.9.6/niyaz.ipa)
-2. **Scarlet**, **AltStore** veya **Sideloadly** gibi popüler imzalama araçlarından biriyle .ipa dosyasını seçip iPhone/iPad'inize yükleyin.
+### 3. 🌐 Web Preview (PWA)
+Try the interface instantly in any browser before installing: 👉 **[niyaz-app.vercel.app](https://niyaz-app.vercel.app)**
 
 ---
 
-### 🌐 Web Önizleme (Tarayıcı)
-Uygulamayı indirmeden önce arayüzünü hızlıca denemek ve incelemek isterseniz doğrudan web üzerinden açabilirsiniz:  
-👉 **[niyaz-app.vercel.app](https://niyaz-app.vercel.app)** *(Not: Web sürümünde sistem kısıtlaması nedeniyle namaz vakti alarmları çalmaz).*
+## 📄 Feedback &amp; Terms
 
----
-
-## 📄 Lisans & Katkı
-
-Bu proje [MIT Lisansı](./LICENSE) altında açık kaynak ve ücretsiz kullanım amacıyla sunulmaktadır. Geri bildirimleriniz ve önerileriniz için [Issues](https://github.com/strangerforge/Niyaz/issues) sekmesini kullanabilirsiniz.
+- **Bug Reports &amp; Suggestions:** [Issues](https://github.com/strangerforge/Niyaz/issues)
+- **Security:** See [SECURITY.md](./SECURITY.md)
+- **Terms:** **Niyaz** is free to download and use without ads. Application source code is closed-source; all rights reserved by **@strangerforge**.
 
 <div align="center">
-<sub>Geliştirici: <strong>@strangerforge</strong> • Huzurla ve dua ile kullanınız.</sub>
+<sub>Built with care by <a href="https://github.com/strangerforge"><strong>@strangerforge</strong></a></sub>
 </div>
